@@ -1,7 +1,7 @@
 {
    "abstract" : "It's new $module",
    "author" : [
-      "tkzwtks <tkzwtks@hatena.ne.jp>"
+      "tkzwtks <tkzwtks@gmail.com>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v3.1.7, CPAN::Meta::Converter version 2.150005",
@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tkzwtks/Acme-NgTkzwtks/issues"
+      },
+      "homepage" : "https://github.com/tkzwtks/Acme-NgTkzwtks",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/tkzwtks/Acme-NgTkzwtks.git",
+         "web" : "https://github.com/tkzwtks/Acme-NgTkzwtks"
+      }
+   },
    "version" : "0.01",
    "x_serialization_backend" : "JSON::PP version 2.27300",
    "x_static_install" : 1

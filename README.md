@@ -1,3 +1,4 @@
+[![Actions Status](https://github.com/tkzwtks/Acme-NgTkzwtks/workflows/test/badge.svg)](https://github.com/tkzwtks/Acme-NgTkzwtks/actions)
 # NAME
 
 Acme::NgTkzwtks - It's new $module
@@ -19,4 +20,4 @@ it under the same terms as Perl itself.
 
 # AUTHOR
 
-tkzwtks <tkzwtks@hatena.ne.jp>
+tkzwtks <tkzwtks@gmail.com>
