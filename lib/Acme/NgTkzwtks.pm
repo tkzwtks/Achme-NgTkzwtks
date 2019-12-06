@@ -4,7 +4,13 @@ use strict;
 use warnings;
 
 our $VERSION = "0.01";
+use Exporter 'import';
 
+our @EXPORT = qw/ng_tkzwtks/;
+
+sub ng_tkzwtks {
+    print ':ng_tkzwtks:';
+}
 
 
 1;
@@ -33,7 +39,6 @@ it under the same terms as Perl itself.
 
 =head1 AUTHOR
 
-tkzwtks E<lt>tkzwtks@hatena.ne.jpE<gt>
+tkzwtks E<lt>tkzwtks@gmail.comE<gt>
 
 =cut
-
